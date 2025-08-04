@@ -10,7 +10,7 @@ import playsound
 import google.generativeai as genai
 
 # Gemini API Setup
-genai.configure(api_key="AIzaSyCvZLoiQbOlbyhqpXla2iHG15H16GLP25o")  # Replace with your API key
+genai.configure(api_key="YOUR_API_KEY")  # Replace with your API key
 
 gemini_model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
@@ -79,3 +79,4 @@ if __name__ == "__main__":
         print("Exiting...")
     except Exception as e:
         print("Fatal error:", e)
+
