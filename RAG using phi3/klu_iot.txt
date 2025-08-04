@@ -1,0 +1,154 @@
+Overview
+The B.Tech IOT Program was established in 2020. The B.Tech IOT Program houses faculty that has rich industry experience to cater to the industry and academic needs of the students. The B.Tech IOT Program plays a pivotal role in shaping the future of connected technologies, driving digital transformation, and unlocking new opportunities across industries. Through a relentless focus on innovation, reliability, and collaboration, we are committed to delivering cutting-edge IoT solutions that address the evolving needs of our customers and contribute to the advancement of society as a whole.
+
+At our B.Tech IOT Program, we are deeply committed to fostering the next generation of talent and empowering students to excel in the rapidly evolving field of Internet of Things (IoT). Our commitment to students encompasses several key initiatives and principles:
+The program coordinator and Head of the department of IoT is Dr P Satyanarayana.
+Education and Training Programs: We offer comprehensive education and training programs aimed at equipping students with the knowledge, skills, and practical experience needed to succeed in IoT-related disciplines. These programs may include workshops, seminars, hackathons, and hands-on projects facilitated by industry experts and academic partners.
+Internship Opportunities: We provide valuable internship opportunities for students to gain real-world experience in IoT development, deployment, and management. Interns have the opportunity to work on meaningful projects, collaborate with experienced professionals, and apply theoretical knowledge in practical settings.
+Research and Innovation: Our B.Tech IOT Program actively engages students in research and innovation initiatives to explore new technologies, solve complex problems, and advance the state-of-the-art in IoT. Students are encouraged to participate in research projects, publish papers, and contribute to the development of innovative solutions with real-world impact.
+Mentorship and Guidance: We offer mentorship and guidance to students throughout their academic and professional journey in IoT. Experienced mentors provide valuable insights, advice, and support to help students navigate challenges, identify opportunities, and achieve their career goals.
+Community Engagement: We foster a vibrant and inclusive community where students can connect, collaborate, and learn from each other. Our B.Tech IOT Program organizes networking events, meet up, and industry partnerships to facilitate knowledge sharing, professional development, and career networking opportunities.
+Diversity and Inclusion: We are committed to promoting diversity and inclusion in the field of IoT by creating an environment that welcomes individuals from diverse backgrounds, cultures, and perspectives. We actively support initiatives that promote gender diversity, minority representation, and equal opportunity for all students.
+Career Development: We provide career development resources and support to help students transition from academia to industry roles in IoT. This may include resume workshops, mock interviews, job placement assistance, and access to industry connections and opportunities.
+Overall, our B.Tech IOT Program is dedicated to empowering students to become future leaders and innovators in the exciting and dynamic field of Internet of Things. Through our commitment to education, mentorship, research, and community engagement, we strive to inspire and equip students to make meaningful contributions to the advancement of IoT technology and its applications in society.
+Vision of B.Tech IOT Program
+To evolve into a globally recognized B.Tech IOT Program in the frontier areas of Internet of Things (IoT).
+Mission of B.Tech IOT Program
+M1- To produce graduates having professional excellence.
+M2- To carry out quality research having social & industrial relevance.
+M3- To provide technical support to budding entrepreneurs and existing Industries.
+Program Educational Objectives
+PEO1: Practice engineering in a broad range of industrial, societal, and real-world applications.
+PEO2: Pursue advanced education, research and development, and other creative and innovative efforts in science, engineering, and technology, as well as other professional careers.
+PEO3: Conduct themselves in a responsible, professional, and ethical manner.
+PEO4: Participate as leaders in their fields of expertise and in activities that support service and economic development throughout the world.
+Program Outcomes
+PO1	Engineering knowledge: Apply the knowledge of mathematics, science, engineeringfundamentals, and an engineering specialization to 	the solution of complex engineering problems.
+PO2	Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching 	substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3	Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that 	meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and 	environmental considerations.
+PO4	Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, 	analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5	Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including 	prediction and modelling to complex engineering activities with an understanding of the limitations.
+PO6	The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and 	cultural issues, and the consequent responsibilities relevant to the professional engineering practice.
+PO7	Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental 	contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8	Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9	Individual and teamwork: Function effectively as an individual, and as a member or leader in diverse teams, and in 	multidisciplinary settings.
+PO10	Communication: Communicate effectively on complex engineering activities with the engineering community and with society at 	large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and 	give and receive clear instructions.
+PO11	Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply 	these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12	Life-long learning: Recognize the need for and have the preparation and ability to engage in independent and life-long learning 	in the broadest context of technological change.
+	Program Specific Outcomes
+PSO1	An ability to solve Electronics engineering problems, using latest hardware and software tools, to obtain appropriate solutions 	in the domain of embedded systems and Internet of things.
+PSO2	Ability to design web applications by applying the knowledge of cyber security.
+
+Highlights
+Established in 2020.
+Contemporary industry ready curriculum.
+Contemporary Industry-connect academic program.
+Will Assist 100% Placements.
+Rich academic, research and industry experienced faculty
+Innovative teaching pedagogies
+State of the art laboratories, research centers and Centers of Excellence
+Industry interactive collaboration
+Student centric education
+Skill based education.
+ICT enabled classrooms.
+International relations.
+Lab taken to class.
+Flexible choice-based credit system.
+Outcome based education.
+Offering 11 specializations.
+Industry and International universities collaborations.
+Industry centric competencies with good hands-on skilling.
+Skill certifications by industry for continuous enrichment in technology.
+Value added courses.
+Placement Training
+Campus placement training
+Company specific training
+Training through industry personnel
+Communication & soft skills
+Competitive programming training
+Practice sessions through Examly portal
+USP’s
+Core industry experienced faculty to guide student projects.
+Students participate in current research and sponsored projects.
+Real time hands-on experience for students on sophisticated equipment and core area software’s.
+Project based learning on the problems suggested by the industry.
+Complete guidance to publish students work in reputed journals and magazines.
+Students reach the societal problems and come out with innovative solutions.
+Step by step guidance for student start-ups.
+Financial support for students team to participate in national competitions.
+Personal counsellor for every student.
+Personalized training for core placements.
+Student clubs for all-round personality development.
+Open laboratories for students round the clock.
+Exploring virtual laboratories from anywhere.
+Core competitive exam trainings for interested students.
+Complete support from the Professors for studies in abroad.
+Continuous encouragement for extra-curricular activities.
+Timely opportunities for students to visit international universities.
+Industry centric internships with good hands-on skilling.
+Skill certifications in centres of excellence collaborated with NI instruments, CDAC, etc.
+Mentors to guide students from industry and alumni.
+
+The B.Tech IOT Program was established in 2020 under the mentorship of B.Tech IOT Program of ECE. Internet of Things (IoT) is an interdisciplinary program which has its application enormously increased in the past few years, it has a vast scope of usage. IoT generally refers to a growing network of internet-connected devices that find various applications in engineering and sciences.Industrial IoT Devices are expected to add $14 Trillion to the Global Economy by 2030.By 2025 the global worth of IoT tech is projected at $6.2 trillion, with the maximum value from healthcare ($2.5 trillion) and manufacturing ($2.3 trillion).
+
+A 4-year full time B. Tech Program in Internet of Things (IoT)combining elements of electronics and computer scienceandfirm foundation into wireless communications, data networks, sensor devices,cloud computing, data analytics and security with AI and Machine Learning.A deep knowledge on IoT devices, renewable energy systems and smart healthcare system is also included. The programme equips students with a solid theoretical foundation, systematic professional knowledge, andstrong skill for IoT system design and Development.
+
+The students will develop strong skills in sensors & instrumentation, wireless communications, chip-design,Renewable energy Systems and cybersecurity & privacy of IoT.
+To collaborate with Industry and Research Laboratories through projects, internships enabling the students to explore, apply various directions of learning.
+To acquire skills in relevant areas in scientific research, technological development, product design and professional management in the IoT field.
+To enable the students to keep pace with changing technological advances and skill development with the various industrial tie-ups likeIBM Watson, Microsoft, Tessolve, HUAWEI, GE Healthcare, CDAC, NTPI, UIPATH and NASCOM.
+This course shall instill confidence in students to gain excellence and success in the field of IoT and furnish in global standards.
+Students can choose from several academic flexibilities to pursue their career in a field of their interest. The programs are designed with the main objective of making students adapt to latest technologies, specializations and be industry ready at the end of their academic journey with KLU.
+Program Educational Objectives
+PEO1: Practice engineering in a broad range of industrial, societal, and real-world applications.
+PEO2: Pursue advanced education, research and development, and other creative and innovative efforts in science, engineering, and technology, as well as other professional careers.
+PEO3: Conduct themselves in a responsible, professional, and ethical manner.
+PEO4: Participate as leaders in their fields of expertise and in activities that support service and economic development throughout the world.
+Program Outcomes
+PO1	Engineering knowledge: Apply the knowledge of mathematics, science, engineeringfundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2	Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3	Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4	Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5	Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+PO6	The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues, and the consequent responsibilities relevant to the professional engineering practice.
+PO7	Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8	Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9	Individual and teamwork: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10	Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11	Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12	Life-long learning: Recognize the need for and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Program Specific Outcomes
+PSO1	An ability to solve Electronics engineering problems, using latest hardware and software tools, to obtain appropriate solutions in the domain of embedded systems and Internet of things.
+PSO2	Ability to design web applications by applying the knowledge of cyber security.
+Academic Labs
+B.Tech IOT Program is equipped with world class, state of the art infrastructure. Find theacademic labs furnished here.
+
+Electronics systems Design
+Analog Circuits and Digital System
+Embedded System
+Internet of Things
+Computer Centre
+Industry Collaboration Centre
+C-DAC Skilling Centre
+
+	Name of the Specilisation	Skilling
+1	Internet of Things (IOT)	Python scripting for analytics, data handling in analytics, R Programming, Data Visualization for 					IoT, Fog Computing. Knowledge enhancement in VLSI-Embedded IOT. After successful of certification 					Company /Institute offers Certification: NSDC & TESSOLVE.
+2	Data Communication & Networks	A basic understanding of small and medium-sized networks, network technologies, and the ability 					to assist the design of small and medium-sized networks, and implement the designs using Huawei 					routing and switching devices. Network fundamentals, connection methods of popular networks, 						network construction, troubleshooting of common network faults, Installation and commissioning of 					Huawei routing and switching devices.Name of Company /Institute offers Certification: HUAWEI.
+3	Data Computing			AI development history, the Huawei Ascend AI system, the full-stack all-scenario AI strategy and 					the algorithms related to traditional machine learning and deep learning. Name of Company 						/Institute offers Certification: HUAWEI.
+4	IoT for Health Care	Technical Product Education is designed for hospital professionals (healthcare technology managers, 					biomedical engineers & clinical engineers) responsible for operating and maintaining GE Healthcare 					equipment and non-GE Healthcare equipment.our hands-on technical training can provide you with the skills 				you need to manage your environment.  Name of Company /Institute offers Certification: GE Healthcareo:p>
+5	Robotics & Automation	UiPath Certified Professional is a high-stakes certification program designed to help you advance your 					career in robotic process automation (RPA) solutions across industries. Get globally recognized RPA 					credentials that strengthen your professional standing and increase your job efficiency and satisfaction. 				Name of Company /Institute offers Certification: UIPATH CERTIFICATIONS
+6	Renewable Energy & Smart Cities	National Power Training Institute (NPTI), an ISO 9001 ISO 14001 organization, is a National Apex 					body for Training and Human Resources Development in Power Sector. Name of Company /Institute 						offers Certification: NPTI.
+7	Cyber Security			Bytexl -COE Program in Cyber Security/- Network Security Associate/ Network Security 							Professional. Name of Company /Institute offers Certification: NASCOM.
+
+
+B. Tech in IOT Specialization opens the door of opportunities for fresh graduates.A career with exceptional prospective fields and a challenging role in a futuristic industry. Aims to prepare students to work as highly paid professionals such as, IoT Engineer,IoT Technology Architect, IOT & Smart City - Applications Developer and Testing Specialist, AI expert, Deep Learning Scientist, Machine Learning Engineer, Data Scientist, Computer Vision Engineer, Embedded software engineer, IoT Research developer, , FP&A IoT service manager, Smart City Solutions Architect, IoT Governance, Legal and Ethical IoT, Innovator on the Chip and Sensor, Citizen IOT Scientist.
+
+Contact Details
+
+Dr P Satyanarayana,
+PROGRAM COORDINATOR
+
+Ph no: 9440112282
+
+
+
