@@ -46,8 +46,8 @@ A simple voice assistant that listens to your speech, sends your query to **Gemi
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/your-username/Conversational.git
-cd chat-bot
+git clone --branch feature/audio https://github.com/KLU-IoT/GENAI_LAB.git
+cd "GENAI_LAB/Conversational chat bot"
 ```
 
 2. **Create a virtual environment:**
