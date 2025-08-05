@@ -1,5 +1,3 @@
-Here is a professional and detailed `README.md` for your **Chat Bot** project that uses **Vosk** for speech recognition and **Gemini (via Google Generative AI API)** for generating responses.
-
 ---
 
 # Chat Bot – Voice Assistant using Vosk + Gemini
